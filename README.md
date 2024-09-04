@@ -4,8 +4,8 @@
 
 ## About Me
 
-- 🎓 I am a student at Zagazig University
-- 💼 Currently working as a Machine Learning Engineer as a freelancer
+- 🎓 I graduated from Zagazig University
+- 💼 Currently working as a Machine Learning Engineer as a freelancer && instructor
 - 🌍 I'm based in Al Mansoura - Egypt.
 
 ## My Expertise
