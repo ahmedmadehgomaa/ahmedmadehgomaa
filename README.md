@@ -9,7 +9,7 @@ I work across machine learning, data analytics, LLM applications, and AI
 automation --- designing useful solutions, teaching technical concepts,
 and helping teams work smarter.
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/) · [Gmail](eng.a.madeh@gmail.com)
 
 
 ------------------------------------------------------------------------
